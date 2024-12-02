@@ -1,0 +1,38 @@
+body  {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+}
+
+header  {
+    padding: 10px;
+    text-align: center;
+}
+
+#myimg   {
+    width:100px;
+    
+}
+nav input  {
+    padding: 7px;
+    border: 2px solid rgb(223, 209, 209);
+    border-radius:5px;
+    font-size: large;
+}
+
+nav button  {
+    padding:5px 12px ;
+    background-color:rgb(27, 162, 247);
+    color:white;
+    border:none;
+    font-size: large;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.video  {
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin:0;
+    border-radius:10px;
+}
